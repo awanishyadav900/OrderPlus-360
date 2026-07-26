@@ -139,7 +139,7 @@ Business Insights
   Overviews - https://github.com/awanishyadav900/OrderPlus-360/commit/174beab4a376119719613118f3410c297114e366
   Payment -  https://github.com/awanishyadav900/OrderPlus-360/blob/main/Payments.png
   Category & Product - https://github.com/awanishyadav900/OrderPlus-360/blob/main/Category%20%26%20Product.png
-  Delivery & Logistics - 
+  Delivery & Logistics - https://github.com/awanishyadav900/OrderPlus-360/blob/main/Deliver%20%26%20Logistics.png
   
 ## Author
 
